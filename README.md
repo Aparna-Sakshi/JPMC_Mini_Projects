@@ -1,2 +1,2 @@
-# JPMC_case_study
+# JPM_case_study
 JP Morgan Quant case study 
